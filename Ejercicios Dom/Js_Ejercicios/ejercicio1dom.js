@@ -1,3 +1,4 @@
+//Zyanya
 //obtner elementos
 //Id
 const title = document.getElementById('title1');
